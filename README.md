@@ -91,7 +91,8 @@
 
 ###  📊Contribution Graph 
 
-![snake gif](https://github.com/aniket52777/aniket52777/blob/output/github-contribution-grid-snake.gif)
+
+
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -132,3 +133,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/aniket52777/aniket52777/blob/output/github-contribution-grid-snake.gif)
