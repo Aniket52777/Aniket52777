@@ -33,21 +33,21 @@
 <div align="center" style="margin-bottom:5px">
 <img  align="center" height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniket52777&theme=radical"/>
 </div>
-<hr style="height: 3px; border: none; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
+<hr style="height: 2px; margin:5px; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
 
 <div align="center" style="margin-bottom:5px">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniket52777&theme=2077"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aniket52777&theme=2077"/>
 <div>
 
-<hr style="height: 3px; border: none; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
+<hr style="height: 2px; margin:5px; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
 
-<div align="center" style="margin-bottom:5px">
+<div align="center" style="margin-bottom:2px">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamalaSumanth0262&theme=2077"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayur-Pagote&theme=2077"/>
 </div>
 
-<hr style="height: 3px; border: none; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
+<hr style="height: 2px; margin:5px; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
 <div style="display: flex; justify-content: center; flex-wrap: wrap; background-image: url('https://i.gifer.com/J4o.gif'); background-size: cover; background-position: center; padding: 5px;">
   <div>
     <img src="https://nirzak-streak-stats.vercel.app/?user=aniket52777&theme=codeSTACKr&hide_border=false" alt="GitHub Streak Stats" />
@@ -57,19 +57,19 @@
   </div> -->
 </div>
 
-<hr style="height: 3px; border: none; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
+<hr style="height: 2px; margin:5px; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
 
 <div align="center" >
 <img height = "180em" width="350rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamalaSumanth0262&langs_count=5&theme=codeSTACKr&&hide_border=false&layout=compact"/>
 <img height="200em" width="400rem" src="https://github-contributor-stats.vercel.app/api?username=aniket52777&limit=4&theme=codeSTACKr&&hide_border=false&layout=compact&combine_all_yearly_contributions=true"/>
 </div>
 
-<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
+<hr style="height: 3px;margin:5px; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
 
 ###  📊Contribution Graph 
 
 
-<hr style="height: 4px; border: none; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
+<hr style="height: 3px;margin:5px; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
 
 <br>
 <!-- ### ✍️ Random Dev Quote -->
