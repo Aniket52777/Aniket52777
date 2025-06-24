@@ -91,6 +91,12 @@
 
 ###  📊Contribution Graph 
 
+<div align="center">
+  
+ ![snake gif](https://github.com/aniket52777/aniket52777/blob/output/github-snake-dark.svg)
+  
+</div>
+
 
 
 <!-- Divider GIF -->
@@ -134,4 +140,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/aniket52777/aniket52777/blob/output/github-snake-dark.svg)
+
