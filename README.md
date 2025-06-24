@@ -33,43 +33,67 @@
 <div align="center" style="margin-bottom:5px">
 <img  align="center" height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniket52777&theme=radical"/>
 </div>
-<hr style="height: 2px; margin:5px; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
+
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <div align="center" style="margin-bottom:5px">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniket52777&theme=2077"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aniket52777&theme=2077"/>
 <div>
 
-<hr style="height: 2px; margin:5px; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
+
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <div align="center" style="margin-bottom:2px">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamalaSumanth0262&theme=2077"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayur-Pagote&theme=2077"/>
 </div>
 
-<hr style="height: 2px; margin:5px; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
-<div style="display: flex; justify-content: center; flex-wrap: wrap; background-image: url('https://i.gifer.com/J4o.gif'); background-size: cover; background-position: center; padding: 5px;">
+<!-- Divider GIF -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
+
+<!-- <div style="display: flex; justify-content: center; flex-wrap: wrap; background-image: url('https://i.gifer.com/J4o.gif'); background-size: cover; background-position: center; padding: 5px;">
   <div>
     <img src="https://nirzak-streak-stats.vercel.app/?user=aniket52777&theme=codeSTACKr&hide_border=false" alt="GitHub Streak Stats" />
-  </div>
+  </div> -->
    <!-- <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamalaSumanth0262&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
   </div> -->
+<!-- </div> -->
+
+
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- GitHub Streak -->
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="19%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="19%" style="display:inline;">
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; margin-top: 0; padding-top: 0;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=aniket52777&theme=codeSTACKr&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
-<hr style="height: 2px; margin:5px; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center" >
 <img height = "180em" width="350rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamalaSumanth0262&langs_count=5&theme=codeSTACKr&&hide_border=false&layout=compact"/>
 <img height="200em" width="400rem" src="https://github-contributor-stats.vercel.app/api?username=aniket52777&limit=4&theme=codeSTACKr&&hide_border=false&layout=compact&combine_all_yearly_contributions=true"/>
 </div>
 
-<hr style="height: 3px;margin:5px; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
+
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 ###  📊Contribution Graph 
 
 
-<hr style="height: 3px;margin:5px; background: linear-gradient(to right, #ff6ec4, #7873f5);" />
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <br>
 <!-- ### ✍️ Random Dev Quote -->
